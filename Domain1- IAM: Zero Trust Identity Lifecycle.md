@@ -8,6 +8,9 @@ A hands-on SC-900 project I completed in a personal Microsoft 365 E5 trial tenan
 
 Compromised or over-privileged accounts are still the single most common entry point into a breach. I wanted hands-on proof, not just exam theory, that I can stand up the identity controls that actually stop that: least-privilege admin roles, Conditional Access instead of an all-or-nothing default, self-service password recovery that doesn't create its own attack surface, a password policy that blocks the words attackers try first, just-in-time privileged access instead of standing admin rights, and risk-based monitoring to catch what slips through.
 
+![Flow Diagram for the domain](https://github.com/D-rank-developer/SC-900-Project-Implementation/blob/96dc438dcee2e68d1a6314caa0ba689a1142b6c8/Resources/Gemini_Generated_Image_pbwc3mpbwc3mpbwc.jpg)
+*Detailed flow diagram I designed for the task at hand.*
+
 ## Environment
 
 I signed up for a personal Microsoft 365 E5 trial tenant using a non-work email, separate from my NNPC, CyBlack, and Roehampton accounts, and became the tenant's Global Administrator by default. Everything below was done inside that isolated trial tenant.
