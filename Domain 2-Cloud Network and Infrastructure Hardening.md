@@ -8,6 +8,9 @@ A hands-on SC-900 project I completed in the Azure portal, built to put myself o
 
 An exposed VM or weak perimeter controls are exactly what I found and reported in the ToR Legacy assessment, an origin IP left reachable, no segmentation, no compensating controls if the first layer failed. I wanted to build the defended version of that same scenario myself, subnet segmentation, NSGs that actually deny by default, remote access with no public IP anywhere in the chain, secrets in a vault instead of config files, and a security posture I could benchmark against a named standard rather than just asserting it's "secure."
 
+![flowchart diagram](https://github.com/D-rank-developer/SC-900-Project-Implementation/blob/0c4fa2c84953eefeffa26174ca50357e371b566a/Resources/resouces2/Gemini_Generated_Image_2994d92994d92994.jpg)
+*Detailed Flowchart/Architectural Diagram showing cloud hardening procedure.*
+
 ## Environment
 
 I started in a subscription tied to Azure for Students, which turned out to carry its own default region and quota restrictions I hadn't accounted for. Partway through I moved onto a separate personal "Azure subscription 1" to get past those restrictions, so a couple of the early screenshots below show one subscription and the later ones show another, that's not a mistake, it's the actual environment switch I had to make mid-project.
