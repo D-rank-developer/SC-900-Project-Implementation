@@ -8,6 +8,10 @@ A hands-on SC-900 project in the Microsoft Defender portal, built to prove I can
 
 An undetected breach or a slow response to one is the gap between a contained incident and a genuine one. I wanted to build the whole chain myself: a data source actually flowing into a SIEM, a rule that detects something real, a case file that ties alerts and entities together instead of scattering them across consoles, and an automation layer that acts on a detection rather than just logging it.
 
+![floediagram of the project](https://github.com/D-rank-developer/SC-900-Project-Implementation/blob/4069e92f364b0708285f8d54b520ea609cde00b8/Resources/resource2/Gemini_Generated_Image_m60g8bm60g8bm60g%20(1).jpg)
+
+*This is the architectural/flowdiagram for the threat detection and incidence response project*
+
 ## Environment
 
 Same Azure subscription as my network hardening project, plus the Microsoft Defender portal (security.microsoft.com), which is where almost all of this work actually happens now rather than the old Azure Sentinel blade.
