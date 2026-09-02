@@ -16,4 +16,4 @@ By executing these phases sequentially, I will build out a comprehensive portfol
 
 ---
 
-Is there a specific naming convention you would like me to use for the GitHub repositories where these deliverables will be hosted?
+
