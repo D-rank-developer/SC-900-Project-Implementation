@@ -1,7 +1,7 @@
 # Governance, Risk, Compliance and Data Governance
 
 Hands-on SC-900 project in Microsoft Purview, covering the compliance layer that makes everything in the first four projects defensible: proving posture to a regulator, retaining and disposing of data on schedule, catching insider risk, and knowing what data exists in the first place.
-
+| | |
 |---|---|
 | **Domain** | Domain 5 |
 | **Mission-critical problem** | An organisation can have every technical control in place and still fail an audit, miss a legal hold, or miss an insider risk until after the damage is done |
