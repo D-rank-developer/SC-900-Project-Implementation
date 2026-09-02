@@ -2,7 +2,7 @@
 
 A hands-on SC-900 project I completed in the Azure portal, built to put myself on the defending side of exactly the kind of finding I flagged in the ToR Legacy assessment, an exposed VM or a misconfigured network security group.
 
-> Several screenshots below still show my real tenant name (University of Roehampton in the top-right nav), UPN, and a couple of subscription/object IDs. Worth blurring those before this repo goes fully public.
+> Several screenshots below still show my real tenant name (University of Roehampton in the top-right nav), UPN, and a couple of subscription/object IDs. I have no problem with this because the resource group would have been cleared up at the end of the project, advice you to do the same. If you plan on emulating this project.
 
 ## The problem I set out to solve
 
