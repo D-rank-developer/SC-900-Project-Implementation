@@ -22,7 +22,7 @@ Hands-on SC-900 project in Microsoft Purview, covering the compliance layer that
 - [GRC status report](#grc-status-report)
 - [What I'd do differently in production](#what-id-do-differently-in-production)
 
-> A couple of screenshots below show my real tenant name and account details. Worth blurring before this goes fully public.
+> A couple of screenshots below show my real tenant name and account details. Worth blurring before this goes fully public if you want to emulate the project, but its safer to clearout the resource groups when you are done.
 
 ## The problem I set out to solve
 
