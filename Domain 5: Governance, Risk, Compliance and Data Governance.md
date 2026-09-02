@@ -29,6 +29,8 @@ Hands-on SC-900 project in Microsoft Purview, covering the compliance layer that
 ## The problem I set out to solve
 
 An organisation can have every technical control from my other four projects in place and still fail an audit, miss a legal hold deadline, or have no idea an insider risk existed until after the damage was done. Governance is the layer that makes the rest provable, not just true.
+![flock](https://github.com/D-rank-developer/SC-900-Project-Implementation/blob/42ba3e1e741aa3eb8a11440a8ca6b9f14473f1fa/Resources/resource5/Gemini_Generated_Image_jjxwfmjjxwfmjjxw.jpg)
+*Architectural/Flowchart for GRC*
 
 ## What I did
 
