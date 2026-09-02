@@ -2,7 +2,7 @@
 
 A hands-on SC-900 project I completed in a personal Microsoft 365 E5 trial tenant, built to demonstrate that I can implement least privilege and MFA enforcement, not just describe them.
 
-> A few of the screenshots below still show my real tenant ID and UPN (the tenant properties pane, both role permission panes, and my own admin profile). Worth blurring those in the repo before pointing this at anyone external.
+> A few of the screenshots below still show my real tenant ID and UPN (the tenant properties pane, both role permission panes, and my own admin profile). I have no problem with this because the resource group would have been cleared up at the end of the project, advice you to do the same.
 
 ## The problem I set out to solve
 
