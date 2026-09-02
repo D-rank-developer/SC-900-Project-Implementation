@@ -4,7 +4,7 @@ Hands-on SC-900 project in Microsoft Purview, covering the compliance layer that
 
 | | |
 |---|---|
-| **Domain** | Domain 4 |
+| **Domain** | Domain 5 |
 | **Mission-critical problem** | An organisation can have every technical control in place and still fail an audit, miss a legal hold, or miss an insider risk until after the damage is done |
 | **Environment** | Microsoft 365 E5 trial tenant, Microsoft Purview portal |
 | **Status** | Complete |
