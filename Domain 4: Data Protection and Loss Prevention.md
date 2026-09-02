@@ -12,6 +12,9 @@ Unclassified, unprotected sensitive data walking out the door, financial or heal
 
 A Microsoft 365 E5 trial tenant (`secprojects.onmicrosoft.com`), worked almost entirely through PowerShell this time rather than clicking through the Purview wizards, since I'd already proven I could do it by hand in the identity and network projects.
 
+![Microsoft 365 admin center home, secprojects.onmicrosoft.com tenant, Office 365 E5 license](https://github.com/D-rank-developer/SC-900-Project-Implementation/blob/a8b0b213b67a91d3893a3634f71adcdaf18978f5/Resources/resource4/Gemini_Generated_Image_1q85921q85921q85.jpg)
+*Architectural/FLowchart Data protection *
+
 ## What I did
 
 ### 1. Confirmed the tenant and opened Purview
